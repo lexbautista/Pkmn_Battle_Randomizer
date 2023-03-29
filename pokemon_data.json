@@ -1,0 +1,69 @@
+{
+	"pokemon": [{
+			"name": "Bulbasaur",
+			"level": 8,
+			"type": "Grass",
+            "image": "https://pokemon.fandom.com/wiki/Bulbasaur?file=001Bulbasaur.png"
+		},
+		{
+			"name": "Ivysaur",
+			"level": 16,
+			"type": "Grass",
+            "image": "https://pokemon.fandom.com/wiki/Ivysaur?file=002Ivysaur.png"
+		},
+		{
+			"name": "Venusaur",
+			"level": 50,
+			"type": "Grass",
+            "image": "https://pokemon.fandom.com/wiki/Venusaur?file=003Venusaur.png"
+		},
+		{
+			"name": "Charmander",
+			"level": 8,
+			"type": "Fire",
+            "image": "https://pokemon.fandom.com/wiki/Charmander?file=004Charmander.png"
+		},
+		{
+			"name": "Charmeleon",
+			"level": 16,
+			"type": "Fire",
+            "image": "https://pokemon.fandom.com/wiki/Charmeleon?file=005Charmeleon.png"
+		},
+		{
+			"name": "Charizard",
+			"level": 50,
+			"type": "Fire",
+            "image": "https://pokemon.fandom.com/wiki/Charizard?file=006Charizard.png"
+        },
+		{
+			"name": "Squirtle",
+			"level": 8,
+			"type": "Water",
+            "image": "https://pokemon.fandom.com/wiki/Squirtle?file=007Squirtle.png"
+		},
+		{
+			"name": "Wartortle",
+			"level": 16,
+			"type": "Water",
+            "image": "https://pokemon.fandom.com/wiki/Wartortle?file=008Wartortle.png"
+		},
+		{
+			"name": "Blastoise",
+			"level": 50,
+			"type": "Water",
+            "image": "https://static.wikia.nocookie.net/pokemon/images/0/02/009Blastoise.png"
+		},
+		{
+			"name": "Pikachu",
+			"level": 25,
+			"type": "Electric",
+            "image": "https://static.wikia.nocookie.net/pokemon/images/0/0d/025Pikachu.png"
+		},
+		{
+			"name": "Eevee",
+			"level": 25,
+			"type": "Neutral",
+            "image": "https://static.wikia.nocookie.net/pokemon/images/e/e2/133Eevee.png"
+		}
+	]
+}
