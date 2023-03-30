@@ -62,8 +62,32 @@
 		{
 			"name": "Eevee",
 			"level": 25,
-			"type": "Neutral",
+			"type": "Normal",
             "image": "https://static.wikia.nocookie.net/pokemon/images/e/e2/133Eevee.png"
-		}
+		},
+		{
+			"name": "Snorlax",
+			"level": 50,
+			"type": "Normal",
+			"image": ""
+		},
+		{
+			"name": "Jolteon",
+			"level": 50,
+			"type": "Electric",
+			"image": ""
+		},
+		{
+			"name": "Flareon",
+			"level": 50,
+			"type": "Fire",
+			"image": ""
+		},
+		{
+			"name": "Vaporeon",
+			"level": 50,
+			"type": "Water",
+			"image": ""
+		}				
 	]
 }
